@@ -1,12 +1,8 @@
-# Feedback_process_automation
-Automated the process of sending emails and recieving feedback from the employers by extracting data from data from form in excel sheet using python
+# Feedback Process Automation
+Developed Python bots to automate email sending and data management, resulting in significant time savings and improved efficiency. One bot efficiently retrieves email IDs and details from an Excel sheet, sending personalized emails with attached feedback forms. The other bot accurately extracts data from feedback forms and populates it into an Excel sheet, simplifying data management and analysis.
 
 # Bot-1
-fetches the email ids of the employers from the excel sheet and sends the email containing student's details and a attached feedback form
+Created a Python bot to automate email sending and streamline communication by fetching email IDs and details from an Excel sheet, sending personalized emails with attached feedback forms. This automation reduced manual effort, resulting in increased efficiency and accurate delivery of feedback forms.
 
 # Bot-2
-1. Searches for the email received from the employer in the inbox
-2. Downloads the feedback form received in pdf format
-3. Extracts the data according to the  the fields
-4. Generates the new excel file containing all the details according to the field.
-
+Implemented a Python bot to streamline data management by intelligently extracting and organizing feedback form data into an Excel sheet. This automation reduced manual data entry, ensuring accuracy and simplifying data analysis.
